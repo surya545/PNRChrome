@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+	"name": "PNR",
+	"description": "This extension will check your PNR status of Indian Railway ticket.",
+	"version": "1.0",
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_popup": "popup.html"
+	},
+	"permissions": [
+	"activeTab"
+	]
+}
